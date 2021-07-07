@@ -1,7 +1,7 @@
 Board Information Report
-Filename     : C:\Users\Lucas\Documents\Reps\PCB_OCD+Feedback_Transformer\PCB_TransformersProject\PCB1.PcbDoc
-Date         : 05/06/2020
-Time         : 15:32:13
+Filename     : C:\Users\lucas\Documents\GitHub\PCB_OCD-Feedback_Transformer\PCB_TransformersProject\PCB1.PcbDoc
+Date         : 06/07/2021
+Time         : 23:32:24
 Time Elapsed : 00:00:00
 
 General
